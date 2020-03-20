@@ -3,7 +3,7 @@ __author__ = 'zhennehz'
 
 # TODO
 #申请的密钥
-amap_web_key = '7f94d798aed3da3d5aed9e9d1807f173'
+amap_web_key = '自己申请的key'
 #关键字搜索API服务地址
 poi_search_url = "http://restapi.amap.com/v3/place/text"
 #多边形搜索API服务地址
@@ -24,8 +24,8 @@ proxyPass = "11DF6B4076503EA4"
 local_root = "/Users/zhennehz/Downloads/mapspider/"
 
 #数据库配置路径
-dbname = "bigdata"
-dbpass = "Big_db204"
+dbname = "username"
+dbpass = "password"
 dbaddr = "192.168.1.91:1521/GISDATA"
 
 #代理池ip地址
